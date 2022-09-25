@@ -1,0 +1,2 @@
+def iaFunc():
+    return "Papel"

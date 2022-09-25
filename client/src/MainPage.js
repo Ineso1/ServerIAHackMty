@@ -1,9 +1,13 @@
 import React from 'react'
 import Header from './Header'
+import Main from './Main'
 
 function MainPage() {
   return (
-    <Header/>
+    <div className='MainPage'>
+      <Header/>
+      <Main/>
+    </div>
   )
 }
 
