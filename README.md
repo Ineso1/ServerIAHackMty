@@ -5,3 +5,7 @@ Se propone un proyecto que detecta y organiza basura atravez de vision artificia
 
 *Archivos de python con inteligencia artificial entrenada
 *Servidor para interpretar
+
+Para iniciar el servidor se debe inicializar el archivo 
+manage.py
+npm start
