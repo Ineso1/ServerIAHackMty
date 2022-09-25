@@ -59,7 +59,7 @@ function Main() {
   return (
     <div className='body'>
         <Webcam/>
-        <button onClick= {WebcamCaptureG}>
+        <button onClick= {WebcamCaptureG()}>
             Captura de objeto
         </button>
       Objeto detectado:
