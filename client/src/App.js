@@ -8,6 +8,8 @@ import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 function App() {
   const [data, setData] = useState({});
 
+//Codigo para unir con scripts de python
+
   // useEffect(() => {
   //     fetch("/").then(
   //       res => res.json()

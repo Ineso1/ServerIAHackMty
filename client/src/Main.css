@@ -1,4 +1,23 @@
 .body{
     height: 100vh;
-    background: rgb(211, 255, 248)
+    background: rgb(114, 114, 114);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 500;
+    font-weight: bold;
+}
+button{
+    margin: 50px;
+    background:rgb(57, 57, 57);
+    border-radius: 30px;
+    padding: 20px;
+    color: white;
+}
+
+button:hover{
+    background:rgb(145, 144, 144);
+    color: black;
+    cursor: pointer;
 }
