@@ -41,8 +41,10 @@ To run the server you need to clone the repository and initialize the file manag
 To try the Python script, run the following commands:
 
 ```bash
-  python3 ./IA/camera.py
+  pip install ./IA/requirements.txt
+  python ./IA/camera.py
 ```
+Once it starts, the camera will pop-up and you should press the spacebar with the garbage item you want to classify. Then another image will pop-up with the classification made by the model
 
 # Contributors
 - [@Armandotrsg](https://github.com/Armandotrsg)
