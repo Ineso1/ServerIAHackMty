@@ -1,36 +1,51 @@
 # ServerHackMty
 
+## Artificial Intelligence and Server
 
- IA y servidor
+A project is proposed that detects and organizes garbage through artificial vision, which is composed of two parts of the project:
 
-Se propone un proyecto que detecta y organiza basura atravez de visioon artificial, donde se compone de dos partes del proyecto
+* Python files with trained artificial intelligence
+* Server to interpret in react
+* Matlab scripts to analyze training
 
-*Archivos de python con inteligencia artificial entrenada
-*Servidor para interpretar en react
-*Scripts en matlab para analizar entrenamiento
-
-## Iniciar el servidor
-
-Para iniciar el servidor se debe inicializar el archivo 
-manage.py
-npm start
-
-# Project description
+# Project Description
 
 ## Inspiration
-Nos dimos cuenta que una problemática muy común es no saber en que recipiente hay que colocar la basura y muchas veces aunque haya distintos botes de orgánico, plásticos, papel, otros, etc. las personas terminan tirando los residuos en el lugar incorrecto.
+We realized that a very common problem is not knowing which container to put the garbage in, and often even though there are different bins for organic, plastics, paper, others, etc., people end up throwing waste in the wrong place.
 ## What it does
-Clasifica la basura a través de una IA para hacer el sorteo correcto y con un hardware poder luego separar y depositar los residuos en el lugar correcto.
+Classifies garbage through an AI to correctly sort it, and with hardware it can then separate and deposit the waste in the correct place.
 ## How we built it
-Entrenamos un modelo de deep learning de GoogleNet de reconocimiento de imágenes para distinguir los diferentes tipos de basura (orgánico, plásticos, papel, otros, etc.) y diseñamos con catFiles un prototipo de para sistema de control automatizado de lo que será el basurero inteligente propuesto.
+We trained a GoogleNet deep learning model for image recognition to distinguish between different types of garbage (organic, plastics, paper, others, etc.) and designed a prototype system for automated control with catFiles of what will be the proposed intelligent garbage bin.
 ## Challenges we ran into
-Primero, nos vimos en el problema de encontrar los datasets apropiados para entrenar el modelo ya que no encontramos específicamente los que necesitábamos para la problemática.
-Complicaciones al linkear tecnologías como React con Flask y desarrollar un backend utilizando diversos lenguajes de programación (Python, JS y Matlab)
+First, we faced the problem of finding appropriate datasets to train the model because we couldn't find specifically what we needed for the problem.
+Complications linking technologies such as React with Flask and developing a backend using various programming languages (Python, JS, and Matlab).
 ## Accomplishments that we're proud of
--AI
+-AI\
 -Catfiles
 
 ## What we learned
-AI, deep learning, tensorflow, web desing, 
-## What's next for IA reconocimiento de desechos
-Desarrollar por completo un prototipado para que se produzca en masa.
+AI, deep learning, tensorflow, web design
+## What's next for IA reconocimiento de desechos (AI recognition of waste)
+Completely develop a prototype to be mass-produced.
+
+# Installation
+
+## Run the server
+To run the server you need to clone the repository and initialize the file manage.py and start the server.
+
+```bash
+  npm start
+```
+
+## Try the Python script
+To try the Python script, run the following commands:
+
+```bash
+  python3 ./IA/camera.py
+```
+
+# Contributors
+- [@Armandotrsg](https://github.com/Armandotrsg)
+- [@HugoGoHe](https://github.com/HugoGoHe)
+- [@Inseo1](https://github.com/Ineso1)
+- Juan Daniel Muñoz
