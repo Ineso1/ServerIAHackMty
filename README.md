@@ -48,4 +48,4 @@ To try the Python script, run the following commands:
 - [@Armandotrsg](https://github.com/Armandotrsg)
 - [@HugoGoHe](https://github.com/HugoGoHe)
 - [@Inseo1](https://github.com/Ineso1)
-- Juan Daniel Muñoz
+- [@DanielMunoz4190](https://github.com/DanielMunoz4190)
