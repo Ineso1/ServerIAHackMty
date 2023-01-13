@@ -9,6 +9,9 @@ A project is proposed that detects and organizes garbage through artificial visi
 * Matlab scripts to analyze training
 
 **Images**<br><br>
+
+![image](https://user-images.githubusercontent.com/84602829/212252467-aba83e2e-8dec-49e2-8c14-c4d2c34b76d8.png)
+
 ![image](https://user-images.githubusercontent.com/84602829/212252108-178e2720-a5ec-4758-bf11-bb8722b873ff.png)
 
 ![image](https://user-images.githubusercontent.com/84602829/212252218-fa3d170f-23f0-47f3-80a0-59ca7902146c.png)
