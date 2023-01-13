@@ -57,5 +57,5 @@ Once it starts, the camera will pop-up and you should press the spacebar with th
 # Contributors
 - [@Armandotrsg](https://github.com/Armandotrsg)
 - [@HugoGoHe](https://github.com/HugoGoHe)
-- [@Inseo1](https://github.com/Ineso1)
+- [@Ineso1](https://github.com/Ineso1)
 - [@DanielMunoz4190](https://github.com/DanielMunoz4190)
