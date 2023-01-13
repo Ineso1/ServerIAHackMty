@@ -8,6 +8,11 @@ A project is proposed that detects and organizes garbage through artificial visi
 * Server to interpret in react
 * Matlab scripts to analyze training
 
+**Images**<br><br>
+![image](https://user-images.githubusercontent.com/84602829/212252108-178e2720-a5ec-4758-bf11-bb8722b873ff.png)
+
+![image](https://user-images.githubusercontent.com/84602829/212252218-fa3d170f-23f0-47f3-80a0-59ca7902146c.png)
+
 # Project Description
 
 ## Inspiration
